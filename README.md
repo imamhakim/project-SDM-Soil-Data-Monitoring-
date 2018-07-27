@@ -10,7 +10,7 @@ this app use python 2.7 as language program with some modules:
 
 *SDM_APP.py it's a main sketch of the app
 
-*setup.py it uses to convert py to exe with cx_freeze (you also can see a lot of tutorials in youtube). my python sketch it still need's more development so it can be more userfriendly.
+*setup.py it uses to convert py to exe with cx_freeze (you also can see a lot of tutorials in youtube). my python sketch still needs more development so it can be more userfriendly.
 
 *xbee.ino it's a sketch for microcontroller inside the device, i use an arduino uno microcontroller
 
