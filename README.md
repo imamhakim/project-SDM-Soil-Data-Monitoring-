@@ -1,5 +1,5 @@
 # project-SDM-Soil-Data-Monitoring-
-this is my project to create an app for monitoring data from the device i created before. my device can use to take data (soil pH, soil moisture, humidity) and send them to my laptop with IoT, then my app will process the data so we can know what kind of plant that suitable for the soil 
+this is my project to create an app for monitoring data from the device i created before. my device can use to take data (soil pH, soil moisture, temperature) and send them to my laptop with IoT, then my app will process the data so we can know what kind of plant that suitable for the soil 
 
 this app use python 2.7 as language program with some modules:
 1. Tkinter
